@@ -24,7 +24,7 @@ public class ItemInit {
     public static final RegistryObject<Item> WATER_DIVINATION =
             ITEMS.register("water_divination", WaterDivinationItem::new);
 
-    // Register Gon's Fishing Rod
+   /** // Register Gon's Fishing Rod
     public static final RegistryObject<Item> GONS_FISHING_ROD =
             ITEMS.register("gons_fishing_rod", () -> new EnhancedFishingRodItem(new Item.Properties()
                     .stacksTo(1)

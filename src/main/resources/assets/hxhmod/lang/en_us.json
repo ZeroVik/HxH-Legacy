@@ -1,0 +1,67 @@
+{
+  "item.hxhmod.hunter_license": "Hunter License",
+  "item.hxhmod.hunter_license.tooltip.1": "A card that designates its bearer as an official Hunter",
+  "item.hxhmod.hunter_license.tooltip.2": "Grants special privileges and access to restricted areas",
+  "item.hxhmod.hunter_license.tooltip.3": "Can be used once every 30 minutes to gain temporary benefits",
+
+  "item.hxhmod.water_divination": "Water Divination Bowl",
+  "item.hxhmod.water_divination.tooltip.1": "Used to determine your Nen type",
+  "item.hxhmod.water_divination.tooltip.2": "Right-click on a water source block after awakening your Nen",
+
+  "item.hxhmod.nen_awakening_scroll": "Nen Awakening Scroll",
+  "item.hxhmod.nen_awakening_scroll.tooltip.1": "Ancient scroll containing the secret to awakening Nen",
+  "item.hxhmod.nen_awakening_scroll.tooltip.2": "Right-click to unlock your aura nodes and awaken your Nen",
+  "item.hxhmod.nen_awakening_scroll.tooltip.3": "Warning: This process cannot be reversed!",
+
+  "item.hxhmod.gons_fishing_rod": "Gon's Fishing Rod",
+  "item.hxhmod.killuas_yoyo": "Killua's Yo-Yo",
+  "item.hxhmod.bens_knife": "Ben's Knife",
+  "item.hxhmod.hisokas_card": "Hisoka's Card",
+  "item.hxhmod.greed_island_ring": "Greed Island Ring",
+  "item.hxhmod.nen_training_weight": "Nen Training Weight",
+  "item.hxhmod.nen_ability_book": "Nen Ability Book",
+
+  "entity.hxhmod.chimera_ant": "Chimera Ant",
+  "entity.hxhmod.phantom_troupe_member": "Phantom Troupe Member",
+
+  "hxhmod.message.nen_awakening.success": "Your aura nodes have been forcibly opened! You can now use Nen.",
+  "hxhmod.message.nen_awakening.already_awakened": "Your Nen is already awakened.",
+  "hxhmod.message.nen_awakening.instructions": "Press N to toggle your aura. Use the Water Divination Bowl to determine your Nen type.",
+
+  "hxhmod.message.water_divination.need_water": "You need to right-click on a water block to perform Water Divination.",
+  "hxhmod.message.water_divination.no_nen": "You must awaken your Nen before performing Water Divination.",
+  "hxhmod.message.water_divination.already_done": "You have already determined your Nen type.",
+  "hxhmod.message.water_divination.result": "The water has reacted to your aura!",
+  "hxhmod.message.water_divination.enhancer": "The water's volume increased. You are an Enhancer!",
+  "hxhmod.message.water_divination.transmuter": "The water's taste changed. You are a Transmuter!",
+  "hxhmod.message.water_divination.conjurer": "Impurities formed in the water. You are a Conjurer!",
+  "hxhmod.message.water_divination.emitter": "The water's color changed. You are an Emitter!",
+  "hxhmod.message.water_divination.manipulator": "A leaf moved on the water's surface. You are a Manipulator!",
+  "hxhmod.message.water_divination.specialist": "Something completely different happened! You are a Specialist!",
+
+  "hxhmod.message.hunter_license.no_nen": "Your license grants you certain privileges, but learning Nen would unlock even more possibilities.",
+
+  "hxhmod.message.nen_state.ten": "Ten: You concentrate your aura around your body.",
+  "hxhmod.message.nen_state.ren": "Ren: You expand your aura for increased power.",
+  "hxhmod.message.nen_state.zetsu": "Zetsu: You suppress your aura completely.",
+  "hxhmod.message.nen_ability.activate": "You activate your Nen ability.",
+
+  "hxhmod.message.gyo.activate": "Gyo: You focus your aura in your eyes to see hidden aura.",
+  "hxhmod.message.gyo.deactivate": "Gyo deactivated.",
+  "hxhmod.message.en.activate": "En: You extend your aura to sense your surroundings.",
+  "hxhmod.message.en.deactivate": "En deactivated.",
+
+  "hxhmod.message.nen_not_awakened": "You need to awaken your Nen first.",
+  "hxhmod.message.not_enough_aura": "You don't have enough aura to use this ability.",
+  "hxhmod.message.cannot_use_in_zetsu": "You cannot use this ability while in Zetsu state.",
+  "hxhmod.message.en.radius": "En Radius: %d blocks",
+
+  "key.categories.hxhmod": "Hunter x Hunter",
+  "key.hxhmod.nen_toggle": "Toggle Nen",
+  "key.hxhmod.nen_state_ten": "Ten State",
+  "key.hxhmod.nen_state_ren": "Ren State",
+  "key.hxhmod.nen_state_zetsu": "Zetsu State",
+  "key.hxhmod.nen_ability": "Activate Ability",
+  "key.hxhmod.toggle_gyo": "Toggle Gyo",
+  "key.hxhmod.toggle_en": "Toggle En"
+}
